@@ -23,6 +23,7 @@ docs/
 3. Otvor stránku na:
    ```
    https://<tvoje-uzivatelske-meno>.github.io/docs-sites-demo/
+   https://gitdocs-lab.github.io/docs-sites-demo/
    ```
 
 ## 🌍 Multijazyčnosť
