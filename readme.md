@@ -1,29 +1,34 @@
-# 🌐 GitHub Pages Demo (`docs/` folder)
+# 🌐 GitHub Pages Demo – docs/ folder
 
-Tento repozitár demonštruje používanie GitHub Pages cez priečinok `docs/`, bez nutnosti buildu.
+Tento repozitár demonštruje jednoduché použitie GitHub Pages s priečinkom `docs/`, bez nutnosti buildovania.
 
----
-
-## 📘 Obsah
-
-* `docs/index.md` – úvodná stránka
-* `docs/tema1.md` – ďalšia stránka
-* Voliteľne `.pages` alebo vlastné odkazy
-
----
-
-## ✅ Ako použiť
-
-1. Forkni tento repozitár
-2. Uprav alebo pridaj `.md` súbory do priečinka `docs/`
-3. Aktivuj GitHub Pages: `Settings → Pages → Source: main /docs`
-
-Web bude dostupný na:
+## 📁 Štruktúra
 
 ```
-https://<tvoj-username>.github.io/docs-sites-demo/
+docs/
+├── index.md         # vstupná stránka s výberom jazyka
+├── about.md         # o projekte
+├── sk/
+│   └── index.md     # slovenská verzia
+└── en/
+    └── index.md     # anglická verzia
 ```
+
+## ✅ Ako to spustiť
+
+1. Forkni alebo naklonuj tento repozitár.
+2. V GitHub nastaveniach aktivuj **GitHub Pages**:
+   - Source: `main`
+   - Folder: `/docs`
+3. Otvor stránku na:
+   ```
+   https://<tvoje-uzivatelske-meno>.github.io/docs-sites-demo/
+   ```
+
+## 🌍 Multijazyčnosť
+
+Obsah je rozdelený do `sk/` a `en/`. Vstupná stránka `docs/index.md` ponúka prepínač jazykov.
 
 ---
 
-🔗 Späť na [docs-overview](https://github.com/GitDocs-Lab/docs-overview)
+🔗 Súčasť projektu [GitDocs-Lab](https://github.com/GitDocs-Lab/docs-overview)
