@@ -25,11 +25,11 @@ docs/
    https://<tvoje-uzivatelske-meno>.github.io/docs-sites-demo/
    [https://gitdocs-lab.github.io/docs-sites-demo/](https://gitdocs-lab.github.io/docs-sites-demo/)
    ```
-
+   [https://gitdocs-lab.github.io/docs-sites-demo/](https://gitdocs-lab.github.io/docs-sites-demo/)
 ## 🌍 Multijazyčnosť
 
 Obsah je rozdelený do `sk/` a `en/`. Vstupná stránka `docs/index.md` ponúka prepínač jazykov.
 
 ---
-   [https://gitdocs-lab.github.io/docs-sites-demo/](https://gitdocs-lab.github.io/docs-sites-demo/)
+
 🔗 Súčasť projektu [GitDocs-Lab](https://github.com/GitDocs-Lab/docs-overview)
